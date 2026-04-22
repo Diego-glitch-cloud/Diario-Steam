@@ -51,8 +51,6 @@ La región muestra una de las paridades de género más altas del mundo en el se
         
     - **Uso social:** Las amas de casa utilizan el gaming y redes sociales (WhatsApp/Facebook) para mitigar el aislamiento y gestionar el hogar.
         
-    - **Títulos populares:** _Call of Duty, Mario Kart, Minecraft_ y _Fortnite_.
-        
 
 ---
 
@@ -78,3 +76,25 @@ Las madres gamers poseen un perfil de consumo más activo que las no jugadoras.
 - **Poder de decisión:** Tienen mayor probabilidad de decidir compras en categorías como ropa (**73%**), cosméticos (**63%**) y muebles (**38%**).
     
 - **Desafío Crítico:** El **75%** de las jugadoras en Latinoamérica ha sufrido acoso o toxicidad en línea, lo que limita su participación en comunidades abiertas.
+
+
+## Referencias
+
+https://about.ads.microsoft.com/en/blog/post/february-2024/7-facts-about-the-87-percent-of-moms-who-game
+
+https://about.ads.microsoft.com/content/dam/sites/msa-about/global/common/content-lib/pdf/moms-got-game.pdf
+
+https://www.aaaa.org/blog/guest-post-gamer-moms-are-redefining-the-market-heres-how-brands-can-engage/
+
+https://about.ads.microsoft.com/en/resources/discover/insights/moms-got-game.pdf
+
+https://www.diariolibre.com/revista/cultura/2026/01/07/el-perfil-real-del-gamer-no-es-el-que-imaginas/3396799
+
+https://afjv.com/news/2810_majority-of-moms-play-video-games-new-report-finds.htm
+
+https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-97282022000300012
+
+https://tvaztecaguate.com/nota-empresarial/2023/11/09/replay-guatemala-lanza-estudio-sobre-la-culturade-los-gamers-en-guatemala/
+
+https://forbes.co/forbes-women/en-latinoamerica-el-497-de-los-gamers-son-mujeres
+
