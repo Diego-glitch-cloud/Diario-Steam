@@ -98,3 +98,8 @@ https://tvaztecaguate.com/nota-empresarial/2023/11/09/replay-guatemala-lanza-est
 
 https://forbes.co/forbes-women/en-latinoamerica-el-497-de-los-gamers-son-mujeres
 
+---
+
+## Mom persona
+
+![](./imagenes/ficha-mama.png)
