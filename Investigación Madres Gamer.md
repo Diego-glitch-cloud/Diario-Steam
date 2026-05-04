@@ -103,3 +103,41 @@ https://forbes.co/forbes-women/en-latinoamerica-el-497-de-los-gamers-son-mujeres
 ## Mom persona
 
 ![](./imagenes/ficha-mama.png)
+
+
+# Gráficos Relevantes
+## Hardware más utilizado
+
+![Hardware más utilizado en la plataforma](./imagenes/grafico-hardware-steam.png)
+
+
+## Juegos más jugados entre los usuarios de Steam
+
+![](./imagenes/grafico-masjugados-steam.png)
+
+Los juegos más jugados en steam, en su mayoría, son juegos de índole competitiva, pero en ciertos momentos llega a estar algún juego más individual, como lo es Slay the Spire 2 actualmente. Otro ejemplo interesante es Stardew Valley, el cual pese al tiempo desde su salida en 2016, actualmente se posiciona en el 20vo juego más jugado de la plataforma; un juego que puede ser disfrutado por cualquier tipo de persona. 
+
+## Jugadores diarios en Steam
+
+![](./imagenes/grafico-jugarores-steam.png)
+
+Como se aprecia en el gráfico, todos los días hay al rededor de 20,000,000 a 40,000,000 personas en línea en steam. 
+
+## Crecimiento de Jugadores a lo largo de los años
+
+![](./imagenes/grafico-jugadores-anios.png)
+
+Este gráfico nos demuestra el crecimiento que ha tenido steam a lo largo de los años hasta 2021, lo que demuestra como ha incrementado el uso de la plataforma a nivel mundial. 
+
+## Géneros más jugados entre las mamas gamers
+
+![](./imagenes/grafico-generos-mamas-steam.png)
+
+En el gráfico se observa como el principal género que disfrutan las madres gamer son los juegos de puzzle, seguido por los action/adventure y Racing. Géneros que muchas veces pueden jugarse en familia o invidualmente y resultan mayormente relajantes y divertidos. 
+
+
+## Sensaciones al jugar
+
+![](./imagenes/grafico-sensaciones-steam.png)
+
+Las mujeres cuando juegan normalmente se sienten realjadas, felices y satisfechas, por lo tanto podríamos pensar que es la sensación que nos interesa dar con nuestro diseño. 
