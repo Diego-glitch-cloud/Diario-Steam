@@ -65,3 +65,6 @@ Según la psicología del color, creo que estas son las 3 emociones principales:
 
 Steam usa estos colores oscuros para que lo que realmente resalte sean los juegos. Como cada juego tiene su propio arte y colores, una interfaz negra o azul muy oscura funciona como un marco neutral que no estorba. Además, el azul siempre se asocia con tecnología, lo que encaja bien con lo que es Steam.
 
+---
+
+

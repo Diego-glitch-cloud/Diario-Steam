@@ -50,3 +50,29 @@ https://www.scarymommy.com/
 Me di cuenta de que la mayoría de sitios para mamás están dejando de usar solo el "celeste para niños y rosa para niñas". Ahora se usan mucho los tonos tierra, beige y verdes suaves porque transmiten más calma y se sienten más naturales. La tendencia actual es el "minimalismo cálido", que busca que la mamá se sienta en un ambiente relajado y no tan saturado.
 
 Sin embargo, sitios como Scary Mommy demuestran que también les gustan los colores fuertes y con energía cuando el contenido es más honesto o divertido. En resumen, para un diseño que busque relajar (como lo que vimos antes con las sensaciones de las madres), lo mejor es irse por la paleta de tonos pasteles y tierra, ya que ayudan a bajar el estrés, pero si buscamos algo más divertido podríamos usar paletas más vibrantes y contrastantes. 
+
+---
+
+# Diseño de mi paleta de colores para mamas
+
+Para este diseño me interesa mantenerme en algunos tonos azules característicos de Steam, pero enfocarme en tonos más brillantes, y algunos contrastes con otros colores que puedan combinar. 
+
+Las emociones que busco transmitir son: 
+
+- Relajación
+- Felicidad
+- Satisfacción
+- Emoción
+
+Basado en esto, decidí utilizar esta paleta final para el rediseño:
+
+1. **#F4F1EA (Parchment):** Fondo principal (Surface). Es un tono cálido que cansa menos la vista.
+2. **#ABEDFF (Frosted Blue):** Para tarjetas y contenedores secundarios (Surface Alt). Da una sensación de frescura y calma.
+3. **#2684D6 (Brilliant Azure):** Color para botones y enlaces (Interactive). Mantiene el azul de Steam pero más vibrante.
+4. **#2C3E50 (Charcoal Blue):** Para textos y encabezados (Content). Es legible y profesional.
+5. **#FF5757 (Vibrant Coral):** Color de acento para acciones importantes (Accent/CTA). Resalta mucho y transmite energía.
+
+![](./imagenes/colores-mamas/paleta-diseñada.png)
+
+![](./imagenes/colores-mamas/paleta-aplicada.png)
+
